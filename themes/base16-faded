@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+
+# DEFINE COLORS
+BG="#2e3440"
+FG="#ffffff"
+
+BLK="#2e3440"
+RED="#b77a76"
+GRN="#b4bf86"
+YLW="#cbb079"
+BLU="#83a2be"
+MAG="#958090"
+CYN="#7daea9"
+WHT="#c5c8c6"
+
+BBLK="#606778"
+BRED="#b77a76"
+BGRN="#b4bf86"
+BYLW="#cbb079"
+BBLU="#83a2be"
+BMAG="#958090"
+BCYN="#7daea9"
+BWHT="#FFFFFF"
+
+# VIM COLORSCHEME
+#VIM_SCHEME="base16-material-palenight"
+
+# WALLPAPER OPTIONS
+WALLPAPER_PATH="/home/aesophor/Pictures/Wallpapers/Nature/Rainy.jpg"
+
+# WMDERLAND COLORS
+#WMDERLAND_FOCUS="${BBLK}"
+#WMDERLAND_UNFOCUSED="#393f52"
