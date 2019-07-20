@@ -10,8 +10,13 @@ function set_theme {
     xrdb -merge ~/.Xresources
 
     displayctl
+
+    # Restart polybar
     killall polybar
     ~/.config/polybar/launch.sh
+
+    # Reload urxvt via regnarg/urxvt-config-reload
+    kill -1 `pidof urxvt`
 }
 
 function set_x_colorscheme {
